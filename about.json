@@ -1,0 +1,17 @@
+{
+  "name": "Top Navigation Bar",
+  "component": true,
+  "license_url": "https://github.com/urizenk/discourse/blob/main/LICENSE",
+  "about_url": "https://github.com/urizenk/discourse",
+  "authors": "Custom Development",
+  "theme_version": "1.0.0",
+  "minimum_discourse_version": "2.7.0",
+  "maximum_discourse_version": null,
+  "assets": {
+    "a1": "assets/a1.png",
+    "a2": "assets/a2.png"
+  },
+  "color_schemes": {},
+  "modifiers": {},
+  "learn_more": "https://github.com/urizenk/discourse#readme"
+}
